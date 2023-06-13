@@ -7,15 +7,15 @@ body{
     justify-content:center;
     align-items:center;
     grid-template-columns: 1fr;
-    background-size: cover;
+    /* background-size: cover; */
     padding :10px 20px 10px 20px;
     width: fit-content;
     height: fit-content;
+    background :linear-gradient(to right bottom,skyblue, blue,blueviolet,purple) no-repeat;
     
 }
 
 .container{
-    background :linear-gradient(to right bottom,skyblue, blue,blueviolet,purple) no-repeat;
     background-color: white;
     width: fit-content;
     height: fit-content;
